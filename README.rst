@@ -15,24 +15,22 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Верификация искусственно сгенерированных текстовых фрагментов
+    :Тип научной работы: НИР
+    :Автор: Грицай Герман Михайлович
+    :Научный руководитель: к.ф-м.н, Грабовой Андрей Валериевич 
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+Недавние достижения в области текстовых генеративных моделей позволяют получать искусственные тексты, едва отличимые от написанных человеком при беглом прочтении. Прогресс подобных моделей ставит новые задачи перед научным сообществом, ведь их развитие влечет за собой появление и распространение ложной информации, спама, способствует распространению неэтичных практик. В области обработки естественного языка уже разработано большое количество методов для детектирования текстов, полученных при помощи моделей машинного обучения, включая большие языковые модели. Однако улучшению методов выявления искусственных текстов происходит одновременно с улучшением методов генерации текстов, поэтому требуется изучение появляющихся моделей, искусственных текстов~--- результатов их работы и модернизация существующих подходов к детекции. В настоящей работе представлен детальный анализ ранее созданных методов детекции, а также исследование лексических, синтаксических и стилистических особенностей генерируемых фрагментов. В вычислительном эксперименте сравниваются различные методы детектирования машинной генерации в документах с точки зрения их дальнейшего применения для научных и учебных текстов.
 
 Research publications
 ===============================
-1. 
-
-Presentations at conferences on the topic of research
-================================================
-1. 
+1. CLEF 2024
+2. ACL 2024
+3. SEPLN 2024
+4. Doklady Mathematics
 
 Software modules developed as part of the study
 ======================================================
